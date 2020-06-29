@@ -1,4 +1,2 @@
-# omok
-오목
-
-#
+# 오목
+Kotlin, Canvas
